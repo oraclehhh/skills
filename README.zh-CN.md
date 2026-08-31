@@ -1,6 +1,6 @@
 # Skill 技能目录
 
-**[English](README.md)** | **[中文](README.zh-CN.md)**
+**中文目录**
 
 每个 Skill 按名称只列一次；仓库仍保留本机的全部源文件。
 
