@@ -12,8 +12,8 @@
 | ``academic-paper-reviewer`` | ``agent-skills/academic-paper-reviewer/SKILL.md`` | 多视角学术论文评审工具，模拟不同专业背景的评审者，支持多种评审模式。 |
 | ``academic-pipeline`` | ``agent-skills/academic-pipeline/SKILL.md`` | 学术研究全流程管理工具，涵盖研究、撰写、完整性检查、同行评审、修订、再评。 |
 | ``andrej-karpathy-perspective`` | ``agent-skills/andrej-karpathy-perspective/SKILL.md`` | 提炼Andrej Karpathy的6个核心心智模型和8条决策启发式，提供完整的中文输出。 |
-| ``autoplan`` | ``codex-skills/gstack/autoplan/SKILL.md`` | 自动评审流程，读取CEO、设计、工程和用户体验评审技能，自动决策并运行，最。 |
-| ``beck-perspective`` | ``agent-skills/beck-perspective/SKILL.md`` | Judith S. Beck的思维框架与表达方式，用于分析问题，尤其适用于结构化决策、。 |
+| ``autoplan`` | ``codex-skills/gstack/autoplan/SKILL.md`` | 自动依次运行 CEO、设计、工程和开发体验评审，并在最终审批阶段汇总范围判断、方案分歧和完整计划。 |
+| ``beck-perspective`` | ``agent-skills/beck-perspective/SKILL.md`` | 借鉴 Judith S. Beck 的认知行为框架，帮助分析结构化决策、技能学习、问题解决和行为改变。 |
 | ``benchmark`` | ``codex-skills/gstack/benchmark/SKILL.md`` | 使用浏览守护进程检测性能回归，为页面加载时间、核心网页指标和资源大小建立。 |
 | ``benchmark-models`` | ``codex-skills/gstack/benchmark-models/SKILL.md`` | 比较不同模型的性能，通过Claude、GPT和Gemini并排运行同一提示，比较延迟、。 |
 | ``book-to-skill`` | ``agent-skills/book-to-skill/SKILL.md`` | 将书籍和文档（PDF、EPUB、DOCX、HTML、Markdown、纯文本、RTF、MOBI/AZW）转。 |
