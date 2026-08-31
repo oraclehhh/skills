@@ -23,7 +23,7 @@
 | ``careful`` | ``codex-skills/gstack/careful/SKILL.md`` | 谨慎：防止破坏性命令的安全护栏。在执行 rm -rf、DROP TABLE 等操作前发出警。 |
 | ``check`` | ``codex-skills/check/SKILL.md`` | 核验：独立检查学术论文引用真实性、文献身份、主张证据匹配、无引文重要主张。 |
 | ``chuanxilu-wang-yangming`` | ``codex-skills/chuanxilu-wang-yangming/SKILL.md`` | 王阳明：基于《传习录》全译全注版，提供王阳明心学框架知识库，如心即理、知。 |
-| ``code-review`` | ``agent-skills/code-review/SKILL.md`` | 代码审查 - 检查代码的正确性、安全性、性能、可读性和测试覆盖率，提供按严重。 |
+| ``code-review`` | ``agent-skills/code-review/SKILL.md`` | 检查代码缺陷、安全风险、回归问题、可维护性和测试覆盖率，并按优先级给出修复建议。 |
 | ``codex`` | ``codex-skills/gstack/codex/SKILL.md`` | codex：OpenAI Codex CLI封装，三种模式：代码审查、挑战模式、咨询模式。适。 |
 | ``Codex-to-im`` | ``agent-skills/claude-to-im/SKILL.md`` | Codex-to-im：将Codex会话桥接到Telegram、Discord、Feishu/Lark、QQ或微信，。 |
 | ``computer-use`` | ``plugin-skills/openai-bundled/computer-use/26.825.41651/skills/computer-use/SKILL.md`` | 通过ChatGPT控制Windows应用程序。 |

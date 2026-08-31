@@ -23,7 +23,7 @@ Unique Skills: 197
 | ``careful`` | ``codex-skills/gstack/careful/SKILL.md`` | Safety guardrails for destructive commands. |
 | ``check`` | ``codex-skills/check/SKILL.md`` | 独立核验学术论文、学位论文、综述和研究报告中的引用幻觉、文献身份、主张—证据匹配、无引文重要主张、论证逻辑、结论强度、跨章节一致性、construct-status drift、信息密度、question-led / figure-led narrative，以及常被称为“AI味”的模板化、过度对称、机械总结、过度铺垫、重复 caveat 和低信息密度写作风险。用户提到检查引用真假、citation hallucination、引用是否支持原句、逻辑是否合理、论证漏洞、AI味、机器腔、套话、重复总结、过度铺垫、最终稿审计或修改后复检时都应使用。本 skill 不用 AI detector 判断作者身份；默认只审计，只有用户明确要求修改时才进入证据约束下的最小返修流程，并优先交由 repair skill 执行。 |
 | ``chuanxilu-wang-yangming`` | ``codex-skills/chuanxilu-wang-yangming/SKILL.md`` | "Knowledge base from 明隆庆六年初刻版《传习录》（全译全注） by 王阳明, annotated/translated by 张靖杰. |
-| ``code-review`` | ``agent-skills/code-review/SKILL.md`` | Thorough code review — checks correctness, security, performance, readability, and test coverage. |
+| ``code-review`` | ``agent-skills/code-review/SKILL.md`` | Reviews code for defects, security risks, regressions, maintainability issues, and missing test coverage, then reports prioritized fixes. |
 | ``codex`` | ``codex-skills/gstack/codex/SKILL.md`` | OpenAI Codex CLI wrapper — three modes. |
 | ``Codex-to-im`` | ``agent-skills/claude-to-im/SKILL.md`` | Bridge THIS Codex or Codex session to Telegram, Discord, Feishu/Lark, QQ, or WeChat so the user can chat with Codex from their phone. |
 | ``computer-use`` | ``plugin-skills/openai-bundled/computer-use/26.825.41651/skills/computer-use/SKILL.md`` | Control Windows apps from ChatGPT. |
