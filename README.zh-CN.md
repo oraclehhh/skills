@@ -1,4 +1,6 @@
-# Skill 技能目录`n`n[English](README.md)
+# Skill 技能目录
+
+[English](README.md)
 
 本目录列出本机全部 Skill，包含来源路径、英文原始简介和中文用途说明。
 

@@ -1,4 +1,6 @@
-# Skills Catalog`n`n[中文](README.zh-CN.md)
+# Skills Catalog
+
+[中文](README.zh-CN.md)
 
 Generated from all local `SKILL.md` files.
 
