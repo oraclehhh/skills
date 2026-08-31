@@ -19,3 +19,6 @@ Thumbs.db
 
 # Plugin cache aliases can be broken links or duplicate a versioned directory.
 /plugin-skills/openai-bundled/**/latest/
+
+# Local catalog generation data
+skill-summaries.json
