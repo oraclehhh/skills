@@ -22,9 +22,9 @@
 | ``canary`` | ``codex-skills/gstack/canary/SKILL.md`` | 部署后金丝雀监控。使用浏览守护进程监控实时应用的控制台错误、性能退化和页。 |
 | ``careful`` | ``codex-skills/gstack/careful/SKILL.md`` | 谨慎：防止破坏性命令的安全护栏。在执行 rm -rf、DROP TABLE 等操作前发出警。 |
 | ``check`` | ``codex-skills/check/SKILL.md`` | 核验：独立检查学术论文引用真实性、文献身份、主张证据匹配、无引文重要主张。 |
-| ``chuanxilu-wang-yangming`` | ``codex-skills/chuanxilu-wang-yangming/SKILL.md`` | 王阳明：基于《传习录》全译全注版，提供王阳明心学框架知识库，如心即理、知。 |
+| ``chuanxilu-wang-yangming`` | ``codex-skills/chuanxilu-wang-yangming/SKILL.md`` | 基于《传习录》构建王阳明心学知识库，帮助理解心即理、知行合一等核心思想并应用于现实问题。 |
 | ``code-review`` | ``agent-skills/code-review/SKILL.md`` | 检查代码缺陷、安全风险、回归问题、可维护性和测试覆盖率，并按优先级给出修复建议。 |
-| ``codex`` | ``codex-skills/gstack/codex/SKILL.md`` | codex：OpenAI Codex CLI封装，三种模式：代码审查、挑战模式、咨询模式。适。 |
+| ``codex`` | ``codex-skills/gstack/codex/SKILL.md`` | 封装 OpenAI Codex CLI，提供代码审查、挑战式提问和咨询三种工作模式。 |
 | ``Codex-to-im`` | ``agent-skills/claude-to-im/SKILL.md`` | Codex-to-im：将Codex会话桥接到Telegram、Discord、Feishu/Lark、QQ或微信，。 |
 | ``computer-use`` | ``plugin-skills/openai-bundled/computer-use/26.825.41651/skills/computer-use/SKILL.md`` | 通过ChatGPT控制Windows应用程序。 |
 | ``context-restore`` | ``codex-skills/gstack/context-restore/SKILL.md`` | 通过/restore恢复之前保存的工作上下文。 |
@@ -74,7 +74,7 @@
 | ``land-and-deploy`` | ``codex-skills/gstack/land-and-deploy/SKILL.md`` | 提供从提交到部署的完整工作流，包括合并PR、等待CI和部署、通过金丝雀检查。 |
 | ``landing-report`` | ``codex-skills/gstack/landing-report/SKILL.md`` | landing-report：显示工作空间感知的船队中当前被开放PR占用的版本槽位，以。 |
 | ``last30days`` | ``agent-skills/last30days/SKILL.md`` | last30days：在过去30天内，从Reddit、X、YouTube、TikTok、Hacker News、P。 |
-| ``learn`` | ``codex-skills/gstack/learn/SKILL.md`` | learn：管理项目学习成果，包括审查、搜索、修剪和导出gstack在会话中学习的。 |
+| ``learn`` | ``codex-skills/gstack/learn/SKILL.md`` | 管理 gstack 在会话中积累的项目知识，支持搜索、审查、整理、修剪和导出学习成果。 |
 | ``li-dan-perspective`` | ``agent-skills/li-dan-perspective/SKILL.md`` | li-dan-perspective：提供李诞的幽默思维框架与表达方式，提炼5个核心心智模。 |
 | ``make-pdf`` | ``codex-skills/gstack/make-pdf/SKILL.md`` | make-pdf：将任何Markdown文件转换为高质量PDF，包括1英寸页边距、智能分页。 |
 | ``mao-zedong-perspective`` | ``agent-skills/mao-zedong-perspective/SKILL.md`` | 提炼毛泽东的战略思维与哲学方法论框架，用于分析矛盾、制定策略、把握全局。 |
