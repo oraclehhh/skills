@@ -1,13 +1,10 @@
-# Skills Archive
+# Skill 技能目录
 
-This repository archives the local Codex, agent, and bundled plugin Skills. See the language-specific catalogs below.
+本文件列出本机安装的全部 Skill。每项包含 Skill 名称、来源路径、英文原始简介，以及中文用途说明。英文原文保留技术术语和触发语义。
 
-- Chinese catalog: [README.zh-CN.md](README.zh-CN.md)
-- English catalog: [README.en.md](README.en.md)
+Skill 总数：259
 
-Total Skills: 259
-
-| Skill | Source | English description | 中文简介 |
+| Skill 名称 | 来源路径 | 英文原始简介 | 中文用途说明 |
 |---|---|---|---|
 | ``"code-review"`` | ``agent-skills/code-review/SKILL.md`` | Thorough code review — checks correctness, security, performance, readability, and test coverage. Gives actionable feedback ranked by severity. | 用于执行与“Thorough code review — checks correctness, security, performance, readability, and test coverage. Gives actionable feedback ranked by severity.”相关的任务。 |
 | ``"code-review"`` | ``codex-skills/code-review/SKILL.md`` | Thorough code review — checks correctness, security, performance, readability, and test coverage. Gives actionable feedback ranked by severity. | 用于执行与“Thorough code review — checks correctness, security, performance, readability, and test coverage. Gives actionable feedback ranked by severity.”相关的任务。 |
