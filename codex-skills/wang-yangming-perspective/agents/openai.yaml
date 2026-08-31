@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wang Yangming Perspective"
+  short_description: "Use Yangming mind-learning to examine judgment, action, and self-deception."
+  default_prompt: "Use $wang-yangming-perspective to help me examine a difficult decision without making the decision for me."

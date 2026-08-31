@@ -1,0 +1,4 @@
+interface:
+  display_name: "Check"
+  short_description: "核验论文引用、论证逻辑与模板化写作风险"
+  default_prompt: "使用 $check 对这篇稿件执行完整性审计。"

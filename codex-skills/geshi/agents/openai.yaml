@@ -1,0 +1,4 @@
+interface:
+  display_name: "Geshi"
+  short_description: "Normalize academic DOCX structure, styles, and EndNote fields"
+  default_prompt: "Use $geshi to standardize this academic DOCX, review and consolidate sentence-split paragraphs, normalize body/caption/metadata styles and spacing, preserve or repair its EndNote citation and bibliography fields, and verify the final formatting."

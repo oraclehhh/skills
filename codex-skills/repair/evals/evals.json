@@ -1,0 +1,23 @@
+{
+  "skill_name": "repair",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "根据 manuscript_integrity_audit.md 修复论文中的错误引用、因果夸大和没有证据的机制表述。不要覆盖原稿，完成后重新审计。",
+      "expected_output": "逐项重新核验来源，做最小必要修改，输出新稿和日志，并调用当前可用的 check 审计 skill 进行完整复检。",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "按照已经确认的 revision roadmap 深度修改 Results 和 Discussion，但不要改变任何数字、统计结果、阴性发现或实验设计。",
+      "expected_output": "按 P0-P3 顺序执行授权的结构修复，保留不方便证据，记录结构变更并检查跨章节一致性。",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "根据审稿意见修复这个 DOCX，同时减少模板化AI味。引用和参考文献是 EndNote 管理的，最后请检查格式。",
+      "expected_output": "先做证据约束的内容修复和复检，再调用 geshi 检查 EndNote 域与 DOCX 格式，不声称规避 AI detector。",
+      "files": []
+    }
+  ]
+}

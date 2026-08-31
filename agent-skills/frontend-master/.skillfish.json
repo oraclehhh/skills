@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "frontend-master",
+  "owner": "mineru98",
+  "repo": "llm-proxy-skills",
+  "path": "skills/frontend-master",
+  "branch": "main",
+  "sha": "2e079695604116db02a232f22b851fa249a9b282",
+  "source": "manual"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repair"
+  short_description: "Evidence-constrained repair for audited academic manuscripts"
+  default_prompt: "Use $repair to fix this manuscript within the verified evidence and authorized revision scope, preserve the original, then re-audit the repaired version."

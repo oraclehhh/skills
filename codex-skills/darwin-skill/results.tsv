@@ -1,0 +1,5 @@
+timestamp	commit	skill	old_score	new_score	status	dimension	note	eval_mode
+2026-07-03T00:00	baseline	wang-yangming-perspective	-	38.2	baseline	-	初始评估：文件未完成(PLACEHOLDER_SECTION_3)，缺模型5+决策启发式+失败编码+检查点	dry_run
+2026-07-03T00:10	round1	wang-yangming-perspective	38.2	83.9	keep	all	探索性重写：补全5模型+8启发式+表达DNA+失败模式+检查点+红灯清单+资源索引。318行，零占位符	dry_run
+2026-07-03T00:15	round2	wang-yangming-perspective	83.9	92.6	keep	dim4	精确手术：5个🔴标记嵌入工作流+暂停信号+确认理解+给功夫前确认。frontmatter收紧	dry_run
+2026-07-03T00:30	eval-v2	wang-yangming-perspective	92.6	93.2	keep	dim6+dim7	独立评估：新增07-ctext-original.md(ctext传习录原文精选)+引用决策表11行映射+内联路径指针。7份参考文档。dim7因209%体积扣1分 dim8因dry_run扣2分	dry_run

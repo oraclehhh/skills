@@ -1,0 +1,23 @@
+{
+  "skill_name": "neirong",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "根据这份统计输出和图1-3，写出论文的 Results 部分。不要改变任何数字、显著性方向或校正状态。",
+      "expected_output": "按 scientific question 组织 Results，锁定 N/统计量/p/效应量/校正状态，不新增分析，把 exploratory 明确标注，null 不写成 absence。",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "根据已确认的 protocol 和分析代码重写 Methods，统一术语并修复抄写错误，但不要补造任何缺失的方法细节。",
+      "expected_output": "建立 Method Fact Map，只按 source-of-truth 改写，缺失信息用 [AUTHOR INPUT REQUIRED] 标记，不补 ethics/randomization/参数。",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "在 Results 和已核验文献基础上写 Discussion，目标期刊是 Nature 风格。不要超过证据上限，不要机制化 model parameter。",
+      "expected_output": "围绕 2-3 个 conceptual questions 组织，claim strength 与证据层级匹配，construct 不漂移，caveat 不重复，理论贡献回应 gap。",
+      "files": []
+    }
+  ]
+}
